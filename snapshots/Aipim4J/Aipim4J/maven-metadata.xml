@@ -4,7 +4,10 @@
   <artifactId>Aipim4J</artifactId>
   <versioning>
     <versions>
+<<<<<<< HEAD
       <version>0.0.1-SNAPSHOT</version>
+=======
+>>>>>>> a0a8f300e0b541b86b13f8dc19dbfb6fdd83c71a
       <version>0.0.2-SNAPSHOT</version>
     </versions>
     <lastUpdated>20140711233527</lastUpdated>
